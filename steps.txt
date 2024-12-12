@@ -1,0 +1,5 @@
+there are dot env two packages which are storeed as api keys passwords and tokens
+80 percent of the world uses dot env package 
+20 per smart peaople use config package 
+if we you use config is updated version of env
+
